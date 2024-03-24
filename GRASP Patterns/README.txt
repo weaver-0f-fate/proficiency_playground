@@ -1,0 +1,1 @@
+GRASP patterns are follow-ups from OOP base principles.
